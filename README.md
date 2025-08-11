@@ -32,7 +32,7 @@ A modern React-based frontend application for restaurant table booking and manag
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Christima-Mary-S/rest-booking-frontend.git
    cd rest-booking-frontend
    ```
 
