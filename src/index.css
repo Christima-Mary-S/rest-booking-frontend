@@ -1,0 +1,51 @@
+/* Custom styles to fix orange button visibility and restaurant info */
+.bg-orange-500 {
+  background-color: #f97316 !important;
+}
+
+.hover\:bg-orange-600:hover {
+  background-color: #ea580c !important;
+}
+
+.text-orange-500 {
+  color: #f97316 !important;
+}
+
+.text-orange-600 {
+  color: #ea580c !important;
+}
+
+.border-orange-500 {
+  border-color: #f97316 !important;
+}
+
+.focus\:ring-orange-500:focus {
+  --tw-ring-color: #f97316 !important;
+}
+
+/* Restaurant Info component fixes */
+.bg-gradient-to-r.from-orange-500.to-red-500 {
+  background: linear-gradient(to right, #f97316, #ef4444) !important;
+}
+
+.hover\:text-orange-200:hover {
+  color: #fed7aa !important;
+}
+
+.text-yellow-300 {
+  color: #fde047 !important;
+}
+
+.fill-current.text-yellow-300 {
+  color: #fde047 !important;
+  fill: currentColor !important;
+}
+
+.bg-white.bg-opacity-20 {
+  background-color: rgba(255, 255, 255, 0.2) !important;
+}
+
+/* Additional gradient and color fixes */
+.from-orange-50.to-red-100 {
+  background: linear-gradient(to bottom right, #fff7ed, #fee2e2) !important;
+}
